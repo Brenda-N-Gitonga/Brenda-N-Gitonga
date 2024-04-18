@@ -5,42 +5,35 @@ Welcome to my GitHub profile 🙏🏼
 ---
 ## About Me:
 <p align="left">
-  <img src="./Images/avatar.jpg" width="200" height="200">
+  <img src="./Images/avatar.webp" width="200" height="200">
 </p>
 
-### Machine Learning Engineer | Data Scientist
+### Machine Learning Engineer | Geospatial scientist | Oracle database junior application developer 
 
 *I create algorithms and models that help computers learn from data and make forecasts, resulting in valuable business insights.*
 
 ---
 ### Profile Summary
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-kipkoech-tanui&label=Profile%20views&color=0e75b6&style=flat" alt="brian-kipkoech-tanui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Brenda-N-Gitonga&label=Profile%20views&color=0e75b6&style=flat" alt="Brenda-N-Gitonga" /> </p>
 
-I am a passionate data scientist and machine learning expert who is inspired by technology's capacity to resolve complex issues. I have experience in a variety of fields, including statistics, AI, computer vision, deep learning, mathematics, and NLP, and I'm always learning new things in these fields. My strategy is focused on producing high-quality outcomes while also valuing lifelong learning and personal growth.
-<br><br>
-In addition to my expertise in machine learning and data science, I have also worked with DevOps and AWS (Amazon Web Services). I have worked on using AWS's services like SageMaker, EC2, RDS, S3, Step Functions, and Lambda to implement machine learning models and create scalable and reliable systems. I recognize the value of having a strong DevOps culture in machine learning and data science, and I work hard to incorporate best practices into my workflows to guarantee efficient and effective machine learning model development, testing, and deployment.
-<br><br>
-I am dedicated to making an impact, with a focus on data science and machine learning. My portfolio, featuring my work and contributions, can be viewed on GitHub *(here, under [repositories](https://github.com/brian-kipkoech-tanui?tab=repositories))*. I am appreciative of chances to advance professionally, demonstrate my knowledge, and demonstrate my dedication to leaving a lasting impression. If you share my vision and wish to collaborate, feel free to reach out at 📫 briankipkoechtanui@gmail.com
+I have expertise with Oracle databases, machine learning, and geospatial engineering. I'm a motivated and adaptable technologist. Driven by an unbroken curiosity regarding the relationship between ML, geographical analysis, and database management, I have honed my skills in each area. I possess expertise in Geospatial Analysis, utilizing programs such as ERDAS, QGIS, and ARGGIS Pro to easily manage spatial data and develop GIS applications. I design and execute classification and regression models using frameworks like Tensor Flow. Along with creating pl/sql packages for Oracle databases, I have also designed CRUD applications that optimize SQL queries.   From developing relational database schemas for commercial applications to developing deep learning models for image identification, I have worked on a variety of projects.In any case,reach me at 📫 nkathagbrendah@gmail.com
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brian-kipkoech-tanui&theme=midnight-purple" alt="brian-kipkoech-tanui" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Brenda-N-Gitonga&theme=midnight-purple" alt="brian-kipkoech-tanui" /></a> </p> -->
 
 #### Professional Links:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/briankipkoech/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/brian-kipkoech-tanui)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brenda-n-gitonga)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Brenda-N-Gitonga)
 
 
 ---
 ## Domains of Interests & Expertise
-:comet: Statistics <br>
-:comet: Data Science <br>
+:comet: AWS <br>
+:comet: Geospatial engineering <br>
 :comet: Machine Learning <br>
-:comet: Artificial Intelligence <br>
-:comet: Computer Vision <br>
-:comet: Deep Learning <br>
-:comet: AWS Machine Learning Services<br>
-:comet: MLops <br>
-:comet: NLP
+:comet: Geostatistics <br>
+:comet: Oracle application development<br>
+
 
 ---
 ## Skills 
@@ -58,7 +51,7 @@ I am dedicated to making an impact, with a focus on data science and machine lea
     <img src="./Images/Icons/postgreSQL.png" height="30">
     <img src="./Images/Icons/MySQL_textlogo.svg.png" height="30">
     <img src="./Images/Icons/AWS-Certified-Solutions-Architect.png" height="30">
-    <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30">
+    <!-- <img src="./Images/Icons/Tableau_Software_Logo_Small.png" height="30"> -->
     <img src="./Images/Icons/Matplotlib_logo.svg" height="30">
     <img src="./Images/Icons/seaborn_logo.svg" height="30">
     <img src="./Images/Icons/Tensorflow_logo.png" height="30">
@@ -182,10 +175,10 @@ I am dedicated to making an impact, with a focus on data science and machine lea
 [![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-Web_Scraping-red.svg)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brian-kipkoech-tanui&theme=midnight-purple)
-<!-- ![Brian Kipkoech's GitHub stats](https://github-readme-stats-v8y1-git-master-brian-kipkoechs-projects.vercel.app/api?username=brian-kipkoech-tanui) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brenda-N-Gitonga&theme=midnight-purple)
+<!-- ![Brenda Gitonga GitHub stats](https://github-readme-stats-v8y1-git-master-Brenda-Gitonga-projects.vercel.app/api?username=Brenda-N-Gitonga) -->
 <br>
-<!-- ![Snake animation](https://github.com/brian-kipkoech-tanui/brian-kipkoech-tanui/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Brenda-N-Gitonga/Brenda-N-Gitonga/blob/output/github-contribution-grid-snake.svg)
 <br><br> -->
 Thank you for taking the time to visit my GitHub profile! 🙏🏼
 
@@ -193,7 +186,7 @@ Thank you for taking the time to visit my GitHub profile! 🙏🏼
 
 
 <!--
-**brian-kipkoech-tanui/brian-kipkoech-tanui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Brenda-N-Gitonga/Brenda-N-Gitonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
